@@ -9,5 +9,8 @@
   <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" />
   <project name="Driim/android_kernel_samsung_universal8890" path="kernel/samsung/universal8890" remote="github" revision="hybris-14.1" />
   <project name="Driim/proprietary_vendor_samsung" path="vendor/samsung/hero-common" remote="github" revision="hybris-14.1" />
+  <project path="rpm/" name="myname/droid-hal-herolte" revision="master" />
+  <project path="hybris/droid-configs" name="myname/droid-config-herolte" revision="master" />
+  <project path="hybris/droid-hal-version-herolte" name="myname/droid-hal-version-herolte" revision="master" />
 </manifest>
 
